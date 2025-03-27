@@ -67,7 +67,7 @@
 <details>
 <summary>مشاهده لیست مجوزها و گواهینامه‌ها</summary>
 
-- [لیست مجوزها و گواهینامه‌ها را اینجا اضافه کنید](https://vakilmontakhab.com/licenses-and-certificates/)
+- [مجوزها و گواهینامه‌ها](https://vakilmontakhab.com/licenses-and-certificates/)
 
 </details>
 
