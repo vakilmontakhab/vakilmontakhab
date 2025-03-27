@@ -1,7 +1,7 @@
 # مرکز بین المللی حقوقی و داوری منتخب
 
 <p align="center">
-  <img src="[path-to-logo.png](https://vakilmontakhab.com/wp-content/uploads/2024/12/Markaz-hoghughi-va-davari-montakhab-1024x1024.webp)" alt="لوگوی وکیل منتخب" width="200"/>
+  <img src="[path-to-logo.png](https://avatars.githubusercontent.com/u/205140556?s=400&u=26a800fc4bd72676b71ceeb450db22e6cafaa2fd&v=4)" alt="لوگوی وکیل منتخب" width="200"/>
 </p>
 
 ## درباره ما
