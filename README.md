@@ -1,7 +1,7 @@
 # مرکز بین المللی حقوقی و داوری منتخب
 
 <p align="center">
-  <img src="[path-to-logo.png](https://avatars.githubusercontent.com/u/205140556?s=400&u=26a800fc4bd72676b71ceeb450db22e6cafaa2fd&v=4)" alt="لوگوی وکیل منتخب" width="200"/>
+  <img src="[path-to-logo.png]([https://avatars.githubusercontent.com/u/205140556?s=400&u=26a800fc4bd72676b71ceeb450db22e6cafaa2fd&v=4](https://biaupload.com/do.php?imgf=org-fa48918eec4c1.jpeg))" alt="لوگوی وکیل منتخب" width="200"/>
 </p>
 
 ## درباره ما
